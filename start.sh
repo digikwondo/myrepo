@@ -1,0 +1,2 @@
+exec firefox
+exec guake
